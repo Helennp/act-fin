@@ -1,0 +1,224 @@
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+header{
+    background-color: rgb(128, 17, 17);
+    margin: 0px;
+    padding: 20px;
+}
+
+.mac{
+    text-align: center;
+    color: rgb(236, 205, 26);
+    margin: 0px;
+    font-weight: bold;
+}
+
+.logo{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.prod{
+    text-align: center;
+    background-color:  rgb(236, 205, 26);
+    padding: 10px;
+    color: rgb(128, 17, 17);
+    margin: 0px;
+}
+
+.enlaces{
+    list-style: none;
+    text-align: center;
+    background-color: rgb(236, 205, 26);
+    margin: 0px;
+}
+
+li{
+    display: inline-block;
+    font-size: 20px;
+    margin: 15px;
+    background-color: rgb(128, 17, 17);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(236, 205, 26);
+}
+
+#menu{
+    background-color: rgb(128, 17, 17);
+    margin: 0px;
+    padding: 20px;
+    color: rgb(236, 205, 26);
+    text-align: center;
+}
+
+.hamburguesas-imagen{
+    height: 120px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0px;
+}
+
+.complementos-imagen{
+    height: 120px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0px;
+}
+
+.postres-imagen{
+    height: 120px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0px;
+}
+
+.cafe-imagen{
+    height: 120px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0px;
+}
+
+.menu-p{
+    background-color: rgb(128, 17, 17);
+    margin: 10px;
+    padding: 20px;
+    color: rgb(236, 205, 26);
+    border-radius: 10px;
+}
+
+.menu-d{
+    margin: 0px;
+    background-color: rgb(236, 205, 26);
+}
+
+.hamburguesas{
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+    color: rgb(128, 17, 17);
+    border-top: 2px solid rgb(128, 17, 17);
+}
+
+.cmp-d{
+    margin: 0px;
+    background-color: rgb(236, 205, 26);
+}
+
+.ptr-d{
+    margin: 0px;
+    background-color: rgb(236, 205, 26);
+}
+
+.cafe-d{
+    margin: 0px;
+    background-color: rgb(236, 205, 26);
+}
+
+.ptr-p{
+    background-color: rgb(128, 17, 17);
+    margin: 10px;
+    padding: 20px;
+    color: rgb(236, 205, 26);
+    border-radius: 10px;
+}
+
+.cafe-p{
+    background-color: rgb(128, 17, 17);
+    margin: 10px;
+    padding: 20px;
+    color: rgb(236, 205, 26);
+    border-radius: 10px;
+}
+
+.cmp-p{
+    background-color: rgb(128, 17, 17);
+    margin: 10px;
+    padding: 20px;
+    color: rgb(236, 205, 26);
+    border-radius: 10px;
+}
+
+.complementos{
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+    color: rgb(128, 17, 17);
+    border-top: 2px solid rgb(128, 17, 17);
+}
+
+.postres{
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+    color: rgb(128, 17, 17);
+    border-top: 2px solid rgb(128, 17, 17);
+}
+
+.cafe{
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+    color: rgb(128, 17, 17);
+    border-top: 2px solid rgb(128, 17, 17);
+}
+
+article{
+    background-color: rgb(236, 205, 26);
+    margin: 0px;
+}
+
+#Complementos{
+    background-color: rgb(128, 17, 17);
+    margin: 0px;
+    padding: 20px;
+    color: rgb(236, 205, 26);
+    text-align: center;
+}
+
+#postres{
+    background-color: rgb(128, 17, 17);
+    margin: 0px;
+    padding: 20px;
+    color: rgb(236, 205, 26);
+    text-align: center;
+}
+
+#cafe{
+    background-color: rgb(128, 17, 17);
+    margin: 0px;
+    padding: 20px;
+    color: rgb(236, 205, 26);
+    text-align: center;
+}
+
+footer{
+    margin: 0px;
+    background-color:rgb(128, 17, 17);
+    padding: 20px;
+}
+
+.f{
+    margin: 0px;
+    text-align: center;
+    color: rgb(236, 205, 26);
+}
+
+.precio{
+    margin: 0px;
+    background-color: rgb(236, 205, 26);
+    padding: 10px;
+    color: rgb(128, 17, 17);
+}
